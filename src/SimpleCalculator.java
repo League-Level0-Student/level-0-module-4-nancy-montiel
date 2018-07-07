@@ -16,7 +16,8 @@ Integer.parseInt(integer);
 				null);
 
 		// 5. Call the methods created in steps 3 and 4 to perform the appropriate operation.
-
+   System.out.println();
+   if 
 		// 6. Wrap steps 1, 2 and 5 in a for loop to repeat calculator operations
 	}
 
